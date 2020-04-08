@@ -1,7 +1,8 @@
 Good practices
 =======
 
-## principes
+## principes
+
 do not block rendering by using external libs before the main dom.
 
 ## headers
@@ -18,11 +19,13 @@ do not block rendering by using external libs before the main dom.
 - Do make sure all text meets WCAG colour contrast requirements.
 
 
-### radios vs checkboxes
+### radios vs checkboxes
+
 use check circles for boths
 https://uxmovement.com/wp-content/uploads/2020/03/check_circles.png
 https://uxmovement.com/wp-content/uploads/2020/03/radio-checkbox-exclusivity.png
 
 ## tables
+
 Use right-aligned monospace numeric values for statistical data
 https://cdn.dribbble.com/uploads/8593/original/84cc2164b14400e11ef3729ab4513129.png?1584400364
