@@ -18,6 +18,10 @@ Css generator
 Search through 2 Million+ royalty-free Icons and Images from 900+ Contributors. 
 ### https://fontawesome.com/
 web's most popular icon set and toolkit. 
+### https://css.gg/
+Minimalistic icon library Designed by code.
+### https://github.com/tabler/tabler-icons
+A set of over 400 free MIT-licensed high-quality SVG icons for you to use in your web projects. 
 
 ## images
 ### https://placeholder.com
@@ -34,3 +38,11 @@ An image cache & resize service. Manipulate images on-the-fly with a worldwide c
 ## performance / audit
 ### https://webhint.io/
 Customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
+### https://github.com/dantleech/fink
+command line tool for checking HTTP links written in PHP.
+
+## Frameworks
+### https://sylius.com/
+Open Source eCommerce Platform on Symfony
+### https://laravel-livewire.com/
+full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel. 
