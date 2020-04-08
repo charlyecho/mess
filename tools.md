@@ -30,6 +30,8 @@ Billions & Billions of Placeholder Images Served
 Beautiful Free Stock Video Footage
 ### https://unsplash.com/
 The internet’s source of freely usable images. Powered by creators everywhere.
+### https://pixabay.com/fr/
+Images libres de droits & gratuites à télécharger
 
 ## images CDN / format
 ### https://images.weserv.nl/
