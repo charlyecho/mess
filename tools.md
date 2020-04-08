@@ -1,38 +1,36 @@
 Some stuff usefull
 ======
 
-Reminder for usefull tools I use.
-
-# Colors / Palette
-## https://coolors.co/
+## Colors / Palette
+### https://coolors.co/
 The super fast color schemes generator! Create, save and share perfect palettes in seconds!
 ## https://color.hailpixel.com/
 
-# CSS
-## https://enjoycss.com/
+## CSS
+### https://enjoycss.com/
 Css generator
 
-# Logo
-## https://www.brandcrowd.com/maker/logos
+## Logo
+### https://www.brandcrowd.com/maker/logos
 
-# Icons / SVG
-## https://iconscout.com/
+## Icons / SVG
+### https://iconscout.com/
 Search through 2 Million+ royalty-free Icons and Images from 900+ Contributors. 
-## https://fontawesome.com/
+### https://fontawesome.com/
 web's most popular icon set and toolkit. 
 
-# images
-## https://placeholder.com
+## images
+### https://placeholder.com
 Billions & Billions of Placeholder Images Served
-## https://coverr.co/
+### https://coverr.co/
 Beautiful Free Stock Video Footage
-## unsplash
+### unsplash
 The internet’s source of freely usable images. Powered by creators everywhere.
 
-# images CDN / format
-## images.weserv.nl
+## images CDN / format
+### images.weserv.nl
 An image cache & resize service. Manipulate images on-the-fly with a worldwide cache.
 
-# performance / audit
-## https://webhint.io/
+## performance / audit
+### https://webhint.io/
 Customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
