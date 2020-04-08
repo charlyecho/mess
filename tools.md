@@ -6,7 +6,6 @@ Reminder for usefull tools I use.
 # Colors / Palette
 ## https://coolors.co/
 The super fast color schemes generator! Create, save and share perfect palettes in seconds!
-
 ## https://color.hailpixel.com/
 
 # CSS
@@ -18,8 +17,9 @@ Css generator
 
 # Icons / SVG
 ## https://iconscout.com/
-## Asesome font
-## svg http://thoughtbot.github.io/foundry/
+Search through 2 Million+ royalty-free Icons and Images from 900+ Contributors. 
+## https://fontawesome.com/
+web's most popular icon set and toolkit. 
 
 # images
 ## https://placeholder.com
