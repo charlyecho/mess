@@ -24,11 +24,11 @@ web's most popular icon set and toolkit.
 Billions & Billions of Placeholder Images Served
 ### https://coverr.co/
 Beautiful Free Stock Video Footage
-### unsplash
+### https://unsplash.com/
 The internet’s source of freely usable images. Powered by creators everywhere.
 
 ## images CDN / format
-### images.weserv.nl
+### https://images.weserv.nl/
 An image cache & resize service. Manipulate images on-the-fly with a worldwide cache.
 
 ## performance / audit
