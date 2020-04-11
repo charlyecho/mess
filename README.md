@@ -1,9 +1,5 @@
 Usefull Tips for web development
 =======
-
-
-# Html
-
-# CSS
-
-# tools (sofwares
+- Html
+- CSS
+- tools (sofwares)
